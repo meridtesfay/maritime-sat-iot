@@ -6,10 +6,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Author:** Merid Tesfay | meridtesfay@gmail.com  
-**GitHub:** github.com/meridtesfay/maritime-sat-iot  
-**Purpose:** PhD Application Portfolio - Aalborg University AI:GeoComm Lab
-
 ---
 
 ## 🎯 Project Overview
