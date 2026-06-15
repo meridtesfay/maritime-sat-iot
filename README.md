@@ -362,23 +362,23 @@ See `visualization/` directory for generation scripts.
 
 ### Advanced ML Techniques
 
-✅ **Focal Loss** - Addresses severe class imbalance  
-✅ **SMOTE Oversampling** - Synthetic minority examples  
-✅ **Multi-Head Attention** - Learned multimodal fusion  
-✅ **Physics-Informed Constraints** - Domain knowledge regularization  
-✅ **Distributed Training** - Multi-GPU HPC support  
-✅ **Mixed Precision** - FP16 training for speed  
-✅ **Gradient Accumulation** - Large effective batch sizes  
+ **Focal Loss** - Addresses severe class imbalance  
+ **SMOTE Oversampling** - Synthetic minority examples  
+ **Multi-Head Attention** - Learned multimodal fusion  
+ **Physics-Informed Constraints** - Domain knowledge regularization  
+ **Distributed Training** - Multi-GPU HPC support  
+ **Mixed Precision** - FP16 training for speed  
+ **Gradient Accumulation** - Large effective batch sizes  
 
 ### Engineering Best Practices
 
-✅ **Modular Architecture** - Easy to extend  
-✅ **Comprehensive Logging** - Weights & Biases integration  
-✅ **Unit Tests** - pytest coverage >80%  
-✅ **Type Hints** - Full mypy compliance  
-✅ **Documentation** - Sphinx-generated API docs  
-✅ **CI/CD** - GitHub Actions for testing  
-✅ **Containerization** - Docker + Kubernetes ready  
+ **Modular Architecture** - Easy to extend  
+ **Comprehensive Logging** - Weights & Biases integration  
+ **Unit Tests** - pytest coverage >80%  
+ **Type Hints** - Full mypy compliance  
+ **Documentation** - Sphinx-generated API docs  
+ **CI/CD** - GitHub Actions for testing  
+ **Containerization** - Docker + Kubernetes ready  
 
 ---
 
@@ -390,64 +390,3 @@ See `visualization/` directory for generation scripts.
 2. **SMOTE** - Chawla et al. "SMOTE: Synthetic Minority Over-sampling" (JAIR 2002)
 3. **Attention** - Vaswani et al. "Attention Is All You Need" (NeurIPS 2017)
 4. **Physics-Informed NNs** - Raissi et al. "Physics-informed neural networks" (JCP 2019)
-
-### Dataset Citations
-
-```bibtex
-@article{hersbach2020era5,
-  title={The ERA5 global reanalysis},
-  author={Hersbach, Hans and others},
-  journal={Quarterly Journal of the Royal Meteorological Society},
-  year={2020}
-}
-```
-
----
-
-## 👨‍💻 About the Author
-
-**Merid Tesfay**
-
-**Background:**
-- 🎓 M.Sc. Computer Engineering (AI/ML Track) - University of Trento
-- 🎓 B.Sc. Electronics & Communication Engineering - Mekelle University (3.72/4.00)
-- 💼 3 years telecommunications infrastructure experience (INSA, Ethiopia)
-
-**Research Expertise:**
-- Self-supervised learning (thesis: 0.756 AUC on medical imaging)
-- Vision Transformers (SwinUNETR, ViT)
-- Signal processing (DSP, communications systems)
-- Deep learning (PyTorch, distributed training)
-
-**Why This Project:**
-Demonstrates unique combination of:
-1. Telecommunications foundation (ECE degree + industry experience)
-2. Advanced ML skills (M.Sc. research + multiple SOTA models)
-3. Research rigor (class imbalance, physics-informed learning)
-4. Engineering excellence (HPC-ready, production deployment)
-
-**Contact:**
-- 📧 Email: meridtesfay@gmail.com
-- 💼 LinkedIn: linkedin.com/in/merid-tesfay-9634a9103
-- 🐙 GitHub: github.com/meridtesfay
-
----
-
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Aalborg University AI:GeoComm Lab** - Research inspiration
-- **Marine Cadastre (NOAA)** - AIS data provision
-- **Copernicus Programme** - ERA5 weather data
-- **CelesTrak** - Satellite orbital data
-
----
-
-**Built for Aalborg University AI:GeoComm Lab PhD Application | April 2026**
-
-*Demonstrating the intersection of telecommunications engineering and machine learning for next-generation satellite communication systems.*
